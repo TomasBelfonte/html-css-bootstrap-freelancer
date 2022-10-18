@@ -1,0 +1,74 @@
+.bg-blue {
+    background-color: #37556A;
+}
+
+.blue {
+    color: #37556A;
+}
+
+.bg-green {
+    background-color: #00BC9C;
+}
+
+.green {
+    color: #00BC9C;
+}
+
+.starline {
+    border: 1px solid;
+    border-radius: 10px;
+}
+
+.button-custom {
+    background-color: #00BC9C;
+    border: 1px solid white;
+    padding: 0.5rem 0.7rem;
+    margin: 0.2rem;
+    font-size: 12px;
+}
+
+.round-circle {
+    border: 0.5px solid white;
+    border-radius: 50%;
+    padding: 0.7rem;
+    margin: 0.2rem;
+    font-size: 12px;
+}
+
+section {
+    padding: 2rem;
+}
+
+.footer {
+    background-color: #2C404F;
+    padding: 2rem;
+    color: white;
+    text-align: center;
+}
+
+.message {
+    padding-bottom: 5rem;
+}
+
+.nav-left {
+    font-size: medium;
+    font-weight: 600;
+}
+
+.container img {
+    width: 100%;
+    display: block;
+}
+
+input {
+    border: none;
+    width: 100%;
+}
+
+.facebook {
+    padding: 0.6rem 0.8rem;
+}
+
+.google {
+    padding: 0.7rem 0.6rem;
+}
